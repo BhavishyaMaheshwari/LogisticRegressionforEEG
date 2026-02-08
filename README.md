@@ -113,8 +113,7 @@ LogisticRegression(max_iter=3000, solver="lbfgs")
 
 
 
-
-## Results (Baseline Analysis)
+## Results
 
 The trained Logistic Regression model demonstrates effective discrimination between the three emotional states using aggregated SEED-IV EEG features.
 
@@ -127,7 +126,7 @@ The trained Logistic Regression model demonstrates effective discrimination betw
 ### Confusion Matrix Analysis
 
 * Most predictions lie along the diagonal, indicating correct classification.
-* Minor confusion is observed between **Fear** and **Sadness**, which is expected due to overlapping neurophysiological patterns.
+* Minor confusion is observed between **Fear** and **Sadness**, which is expected due to overlapping patterns.
 * **Disgust** shows comparatively stronger separability.
 
 ### Interpretation
