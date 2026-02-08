@@ -108,6 +108,12 @@ LogisticRegression(max_iter=3000, solver="lbfgs")
 
 ---
 
+## Model Diagram
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/94e89fc9-db42-4dee-9901-4483bdf3266d" />
+
+
+
+
 ## Results (Baseline Analysis)
 
 The trained Logistic Regression model demonstrates effective discrimination between the three emotional states using aggregated SEED-IV EEG features.
